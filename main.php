@@ -8,7 +8,7 @@ $name = 'hiro';
 
 echo 'Hello '. $name . PHP_EOL;
 echo 'Hi '. $name .PHP_EOL;
-
+// ↑PHP_EOLはターミナル上では有効
 
 //コメント1
 #コメント2
