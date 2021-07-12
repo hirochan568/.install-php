@@ -9,6 +9,7 @@ $name = 'hiro';
 echo 'Hello '. $name . PHP_EOL;
 echo 'Hi '. $name .PHP_EOL;
 
+
 //コメント1
 #コメント2
 /*
