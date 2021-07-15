@@ -9,4 +9,5 @@
 <body>
     <?php echo "<h1>Hello World! welcome to hiro!!</h1>" ?>
 </body>
+<!-- テスト文章です -->
 </html>
